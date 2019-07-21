@@ -1,0 +1,57 @@
+.jumbotron{
+    margin-bottom:0px;
+}
+
+  .jumbotron-special{
+    background-image: url('images.jpg');
+    border-radius: 0px;
+  }
+  #a{
+    text-align: center;
+   }
+
+  .card {
+       display:inline-block;
+       border-width: 30px;
+       padding-bottom: 7px;
+       border-color: grey;
+   }
+
+   .special-alert{
+       border-width: 10px;
+       border-radius: 0px;
+       border-color: rgb(255, 255, 255);
+   }
+
+   .resize-box{
+       width: 500px;
+       margin-left: 100px;  
+    }
+
+   .move-text{
+       margin-left:100px;
+       float:right;
+       width:20%;
+   }
+
+   .jumbotron-signin{
+       background-image: url("signin.jpg");
+       padding: 60px 72px !important;
+       height: 150% !important;
+   }
+
+   .jumbotron-fluid-signup{
+       background-color: bisque;
+   }
+
+   .create-jumbotron{
+
+       background-image: url('create.jpg');
+       height: 595px;
+   }
+
+   .jumbotron-survey{
+       height: 1500px;
+       background-image: url('signin.jpg');
+
+   }
